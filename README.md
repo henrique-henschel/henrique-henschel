@@ -15,6 +15,7 @@
 
 <div style="display: inline_block;">
   <br>
+  <img align="center" alt="https://e7.pngegg.com/pngimages/674/653/png-clipart-progress-software-gmbh-logo-openedge-advanced-business-language-database-progress-text-trademark.png">
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
